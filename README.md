@@ -48,18 +48,22 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/riteekagawand/Portfolio-new
+   ```
 
 2. **Navigate to the project directory**  
    ```bash
    cd portfolio
+   ```
 
 3. **Install dependencies**  
    ```bash
    npm install
+   ```
 
 4. **Start the development server**  
    ```bash
    npm run dev
+   ```
 
 5. **Open your browser and visit**  
    ```bash
@@ -69,18 +73,17 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 ---
 
 ## 📦 Deployment
-        This portfolio is deployed on Vercer.
-        Visit the live site: **https://riteekagawand-portfolio.vercel.app/**
+- This portfolio is deployed on Vercer.
+- Visit the live site: **https://riteekagawand-portfolio.vercel.app/**
 
 ---
 
 ## 👤 About Me
-    ```bash
 
-    **Name**: Riteeka Gawand
-    **LinkedIn**: Riteeka Gawand
-    **GitHub**: Riteeka's GitHub
-    **Email**: riteekagawand7@gmail.com
-    ```
+- **Name**: Riteeka Gawand
+- **LinkedIn**: Riteeka Gawand
+- **GitHub**: Riteeka's GitHub
+- **Email**: riteekagawand7@gmail.com
+    
 
 
