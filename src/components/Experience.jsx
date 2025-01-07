@@ -32,7 +32,7 @@ const Experience = () => {
   return (
     <div
       id="experience"
-      className="relative z-10 border-t my-12 lg:my-24 border-[#25213b] bg-[#0f1629]"
+      className="relative z-10 border-t   border-[#25213b] bg-[#0f1629]"
     >
       {/* Adjusted z-index for SVG */}
       <img
