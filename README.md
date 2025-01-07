@@ -73,7 +73,7 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 ---
 
 ## 📦 Deployment
-- This portfolio is deployed on Vercer.
+- This portfolio is deployed on **Vercer**.
 - Visit the live site: **https://riteekagawand-portfolio.vercel.app/**
 
 ---
