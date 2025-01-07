@@ -39,7 +39,7 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 -├── .env               # Environment variables (if any)
 -├── README.md          # Project documentation
 -└── package.json       # Project dependencies
-
+```
 
 ---
 
@@ -69,7 +69,7 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 
 ## 📦 Deployment
         This portfolio is deployed on Vercer.
-        Visit the live site: https://riteekagawand-portfolio.vercel.app/
+        Visit the live site: **https://riteekagawand-portfolio.vercel.app/**
 
 ---
 
@@ -80,4 +80,6 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
     **LinkedIn**: Riteeka Gawand
     **GitHub**: Riteeka's GitHub
     **Email**: riteekagawand7@gmail.com
+    ```
+
 
