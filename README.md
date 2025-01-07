@@ -64,6 +64,7 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 5. **Open your browser and visit**  
    ```bash
    http://localhost:3000
+   ```
 
 ---
 
