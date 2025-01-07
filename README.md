@@ -28,16 +28,16 @@ Welcome to my personal portfolio! This project showcases my journey, skills, pro
 ## 📁 Directory Structure
 
 **portfolio/**
-├── public/            # Static assets (images, icons, etc.)
-├── src/
-│   ├── components/    # Reusable components (e.g., Navbar, Footer)
-│   ├── pages/         # Pages (e.g., Home, About, Projects)
-│   ├── styles/        # CSS/Tailwind files
-│   ├── utils/         # Utility functions (if any)
-│   └── App.jsx        # Application entry
-├── .env               # Environment variables (if any)
-├── README.md          # Project documentation
-└── package.json       # Project dependencies
+-├── public/            # Static assets (images, icons, etc.)
+-├── src/
+-│   ├── components/    # Reusable components (e.g., Navbar, Footer)
+-│   ├── pages/         # Pages (e.g., Home, About, Projects)
+-│   ├── styles/        # CSS/Tailwind files
+-│   ├── utils/         # Utility functions (if any)
+-│   └── App.jsx        # Application entry
+-├── .env               # Environment variables (if any)
+-├── README.md          # Project documentation
+-└── package.json       # Project dependencies
 
 
 ---
