@@ -2046,6 +2046,8 @@ body {
     animation-duration: .3s
 }
 
+
+
 @keyframes Toastify__spin {
     0% {
         transform: rotate(0deg)

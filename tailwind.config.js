@@ -10,8 +10,10 @@ export default {
         customBlue: '#60a5fa',
         customGreen: '#34d399',
       },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+      },
     },
   },
   plugins: [],
 }
-

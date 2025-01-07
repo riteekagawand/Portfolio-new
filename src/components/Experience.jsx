@@ -12,19 +12,19 @@ const experiences = [
     id: 1,
     title: "Full Stack Developer",
     company: "Edba Academy.",
-    duration: "(June 2024 - Sepetember 2024)",
+    duration: "June 2024 - Sepetember 2024",
   },
   {
     id: 2,
     title: "Web Consultant Head",
     company: "VCET Hackathon Committee.",
-    duration: "(June 2024 - Present)",
+    duration: "June 2024 - Present",
   },
   {
     id: 3,
     title: "Python Intern",
     company: "Ignitech.",
-    duration: "(July 2022 – August 2022)",
+    duration: "July 2022 – August 2022",
   },
 ];
 
@@ -43,15 +43,15 @@ const Experience = () => {
         <div className="flex items-center">
           <span className="w-24 h-[2px] "></span>
           <h2
-  className="flex justify-center items-center text-4xl md:text-6xl font-extrabold text-transparent"
-  style={{
-    background: 'linear-gradient(to bottom right, #1e90ff, #32cd32)',
-    WebkitBackgroundClip: 'text',
-    backgroundClip: 'text',
-  }}
->
-  Professional Journey
-</h2>
+            className="flex justify-center items-center text-4xl md:text-6xl font-extrabold text-transparent"
+            style={{
+              background: 'linear-gradient(to bottom right, #1e90ff, #32cd32)',
+              WebkitBackgroundClip: 'text',
+              backgroundClip: 'text',
+            }}
+          >
+            Professional Journey
+          </h2>
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
       </div>
@@ -65,7 +65,7 @@ const Experience = () => {
           </div>
 
           <div>
-          <div className="flex flex-col gap-6" style={{ marginTop: "30px" }}> {/* Added inline style for more control */}
+          <div className="flex flex-col gap-6" style={{ marginTop: "-15px" }}> {/* Added inline style for more control */}
     {experiences.map((exp) => (
       <GlowCard key={exp.id} identifier={`experience-${exp.id}`}>
       <div className="p-3 relative">
