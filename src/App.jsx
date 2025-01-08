@@ -7,6 +7,7 @@ import Projects from "./components/Projects";
 import { Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Experience from "./components/Experience";
+import Footer from "./components/Footer";
 
 export default function App() {
   const [isOnePage, setIsOnePage] = useState(true); // Toggle state
@@ -19,11 +20,12 @@ export default function App() {
         // One-Page Mode: Render all components together
         <div>
           <Hero id="home"/>
-          <Skills id="skills" />
+           <Skills id="skills" />
           <Experience id="experience" />
           <Projects id="projects" />
           <Education id="education" />
           <Contact id="contact" />
+          <Footer id="footer" />
         </div>
       ) : (
         // Router Mode: Use routes for navigation
@@ -33,7 +35,8 @@ export default function App() {
           <Route path="/experience" element={<Experience />} />
           <Route path="/education" element={<Education />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/footer" element={<Footer />} />
+          <Route path="/projects" element={<Projects />} /> 
         </Routes>
       )}
     </>

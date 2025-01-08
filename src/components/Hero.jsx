@@ -114,7 +114,7 @@ const profile = {
               {/* Name section */}
               <div className="relative mb-6 sm:mb-8">
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight">
-                  <SparklesText text="Namaste( );" className="font-roboto" />
+                <SparklesText text="Hello" />
                   <span className="relative inline-block">
                     I'm
                     <span className="typing-effect gradient-text">
