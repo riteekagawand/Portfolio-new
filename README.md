@@ -1,6 +1,19 @@
-# 🌟 Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my journey, skills, projects, and accomplishments as a developer. Feel free to explore and learn more about me.
+# 🌟 Welcome to My Portfolio Website 🌟  
+<div align="center">
+  <pre style="font-family: monospace; color: #4CAF50;">
+    ╔════════════════════════════════════════════════╗
+    ║                                                ║
+    ║   _____           _    __      _ _             ║
+    ║  |  __ \         | |  / _|    | (_)            ║
+    ║  | |__) |__  _ __| |_| |_ ___ | |_  ___        ║
+    ║  |  ___/ _ \| '__| __|  _/ _ \| | |/ _ \       ║
+    ║  | |  | (_) | |  | |_| || (_) | | | (_) |      ║
+    ║  |_|   \___/|_|   \__|_| \___/|_|_|\___/       ║
+    ║                                                ║
+    ╚════════════════════════════════════════════════╝
+  </pre>
+</div>
 
 ---
 
