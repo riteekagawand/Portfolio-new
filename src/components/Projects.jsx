@@ -65,11 +65,13 @@ const Projects = () => {
       <div className="sticky top-10">
         <div className="w-[80px] h-[80px] bg-violet-100 rounded-full absolute -top-3 left-0 translate-x-1/2 filter blur-3xl  opacity-30"></div>
         <h2
-        className="flex justify-center items-center text-4xl md:text-6xl font-extrabold text-transparent"
+        className="flex justify-center items-center text-4xl md:text-6xl font-extrabold text-transparent "
         style={{
           background: 'linear-gradient(to bottom right, #1e90ff, #32cd32)',
           WebkitBackgroundClip: 'text',
           backgroundClip: 'text',
+          height: '80px',
+
         }}
       >
         Projects

@@ -48,6 +48,7 @@ const Experience = () => {
           background: 'linear-gradient(to bottom right, #1e90ff, #32cd32)',
           WebkitBackgroundClip: 'text',
           backgroundClip: 'text',
+          height: '80px',
         }}
       >
          Professional Journey

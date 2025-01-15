@@ -72,10 +72,11 @@ const GlowCard = ({ children, identifier }) => {
       className={`glow-container-${identifier} glow-container flex items-center justify-center`}
     >
       <article
-        className={`glow-card glow-card-${identifier} cursor-pointer border border-[#2a2e5a] bg-[#0f1629] transition-all duration-300 relative bg-gradient-to-br from-indigo-400 via-purple-400 to-pink-500 bg-clip-text text-gray-200 rounded-xl hover:border-transparent`}
+        className={`glow-card glow-card-${identifier} cursor-pointer border border-[#2a2e5a] transition-all duration-300 relative bg-gradient-to-br from-indigo-400 via-purple-400 to-pink-500 bg-clip-text text-gray-200 rounded-xl hover:border-transparent`}
         style={{
           width: "650px", // Set desired width
           height: "140px", // Set desired height
+          backgroundColor: "black",
         }}
       >
         <div className="glows"></div>
