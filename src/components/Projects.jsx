@@ -72,7 +72,7 @@ const Projects = () => {
           backgroundClip: 'text',
         }}
       >
-        Tech Stack
+        Projects
       </h2>
       </div>
 
