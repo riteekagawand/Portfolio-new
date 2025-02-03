@@ -7,7 +7,7 @@ const Projects = () => {
     {
       id: 1,
       name: 'SwiftPath',
-      description: "Swiftpath is an AI-powered career planning platform that helps users navigate their professional journey. The platform uses machine learning algorithms to suggest personalized career paths based on users' skills, experience, and interests. I worked on building the backend, including designing APIs using Node.js, Express, and integrating machine learning models to provide real-time career advice. I also managed the integration with external APIs to gather job market insights and career resources.",
+      description: "Swiftpath is a game-based training application for urban food delivery using the MERN stack. The application features a dynamic UI built with React.js and backend services powered by Node.js and Express.js. It integrates real-time traffic updates and route optimization to enhance delivery efficiency. A gamified leaderboard and point-based system were implemented to track performance, motivate users, and improve engagement. Additionally, an intuitive dashboard allows administrators to monitor metrics and optimize training based on real-time insights.",
       tools: ['Express', 'MongoDB', 'OpenAI API', 'Node Mailer', 'Google Map API'],
       role: 'Full Stack Developer',
       code: '',

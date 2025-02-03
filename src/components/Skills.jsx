@@ -99,10 +99,6 @@ const SkillsSection = () => {
       >
         Tech Stack
       </h2>
-
-
-
-
         <div className="flex justify-center items-center">
           <IconCloudDemo />
         </div>
